@@ -26,4 +26,5 @@ The maximum speed up with adaptive sampling compared to molecular dynamics was p
 <div class="caption">
     [Hruska et al., Quantitative comparison of adaptive sampling methods for protein dynamics, 2018] 
 </div>
-[Previous](../6_project)  <div class="right">[Next](../8_project)</div>
+
+[Next](../8_project)

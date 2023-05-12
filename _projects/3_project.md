@@ -18,4 +18,5 @@ The accurate solvation of molecules with an explicit solvent can be challenging.
 
 <div class="caption"> [Hruska et al., Autosolvate: A Toolkit for Automating Quantum Chemistry design and Discovery of Solvated Molecules, 2022]
 </div>
-[Previous](../2_project)  <div class="right">[Next](../4_project)</div>
+
+[Next](../4_project)
