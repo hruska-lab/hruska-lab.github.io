@@ -4,7 +4,7 @@ permalink: /code/
 title: Code
 description:
 nav: true
-nav_order: 2
+nav_order: 5
 ---
 
 {% if site.data.repositories.github_users %}
