@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /repositories/
-title: repositories
-description: Open Source code to reproduce research
+permalink: /Code/
+title: open-source code to reproduce research
+description:
 nav: true
 nav_order: 4
 ---
