@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: Selected Publications
-description:
+title: Publications
+description: Selected (full in CV)
 years: [2022, 2020, 2018]
 nav: true
 nav_order: 1
