@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Explainable artificial intelligence
+title: Explainable machine learning
 description: ground truth dataset 
 img: assets/img/atomwise6.png
 importance: 2

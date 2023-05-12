@@ -21,7 +21,7 @@ Redox potentials are a fundamental chemical property, where the accuracy of DFT 
         {% include figure.html path="assets/img/solvent-shell.PNG" title="solvent shell convergence" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-For the low number of redox potential data points, machine learning features related to the solute and solvent were used. To optimize the solvent shell size for redox potential calculation, the convergence of redox potential is shown. When combining an explicit solvent shell with implicit solvent (C-PCM) the convergence is reached much faster at around 4 Å. This reduces the computational requirements to calculate redox potentials with an explicit solvent. To optimize the solvent shell size for redox potential calculation, the convergence of redox potential is shown. When combining an explicit solvent shell with implicit solvent (C-PCM) the convergence is reached much faster at around 4 Å. This reduces the computational requirements to calculate redox potentials with an explicit solvent.
+For the low number of redox potential data points, machine learning features related to the solute and solvent were used. To optimize the solvent shell size for redox potential calculation, the convergence of redox potential is shown. When combining an explicit solvent shell with implicit solvent (C-PCM) the convergence is reached much faster at around 4 Å. This reduces the computational requirements to calculate redox potentials with an explicit solvent. 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
