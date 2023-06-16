@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Reorganization energy
+title: reorganization energy
 description: from explicit solvation
 img: assets/img/reorg-hist.PNG
 importance: 2
-category: work
+category: science
 ---
 
 <div class="row justify-content-sm-center">

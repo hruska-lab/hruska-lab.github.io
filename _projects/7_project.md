@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Scaling of adaptive sampling
+title: scaling of adaptive sampling
 description: for proteins
 img: assets/img/Figure4a.png
 importance: 2
-category: work
+category: science
 ---
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">

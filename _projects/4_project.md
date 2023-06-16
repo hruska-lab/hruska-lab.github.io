@@ -4,7 +4,7 @@ title: machine learning
 description: correction of chemical property prediction
 img: assets/img/redox-ml-approach.PNG
 importance: 2
-category: work
+category: science
 ---
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">

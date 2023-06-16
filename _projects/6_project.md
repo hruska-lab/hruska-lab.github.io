@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Sampling of rare events 
+title: sampling of rare events 
 description: for proteins
 img: assets/img/folding.PNG
 importance: 2
-category: work
+category: science
 ---
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">

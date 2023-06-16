@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Explicit solvation
-description: at DFT accuracy
+title: explicit solvation
+description: at quantum accuracy
 img: assets/img/mddf2.PNG
 importance: 2
-category: work
+category: science
 ---
 
 

@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Selected (full in CV)
+description: selected
 years: [2022, 2020, 2018]
 nav: true
 nav_order: 4
@@ -16,3 +16,5 @@ nav_order: 4
 {% endfor %}
 
 </div>
+<br>
+Full list of publications <a href="https://scholar.google.com/citations?user=Rq6m2UIAAAA">here.</a>

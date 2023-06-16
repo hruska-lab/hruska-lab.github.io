@@ -1,10 +1,10 @@
 ---
 layout: page
-title: High-throughput protein simulation
+title: high-throughput protein dynamics
 description: open-source software 
 img: assets/img/synch-asynch.PNG
 importance: 2
-category: work
+category: software
 ---
 Open-source software for complex sampling workflows on 2000+ GPUs
 <div class="row justify-content-sm-center">

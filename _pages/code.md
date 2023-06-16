@@ -31,7 +31,7 @@ nav_order: 5
 {% endif %}
 {% endif %}
 
-## Open-source code to reproduce research on GitHub
+## Open-source to support the reproduction of research
 
 {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">

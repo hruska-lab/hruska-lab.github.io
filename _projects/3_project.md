@@ -1,10 +1,10 @@
 ---
 layout: page
-title: High-throughput explicit solvation
+title: high-throughput explicit solvation
 description: open-source software
 img: assets/img/autosolvate.PNG
 importance: 2
-category: work
+category: software
 ---
 
 The accurate solvation of molecules with an explicit solvent can be challenging. To make this easier, I codeveloped <a href="https://github.com/Liu-group/AutoSolvate">Autosolvate</a>, an open-source package which allows high-throughput solvation and equilibration of organic systems. In individual steps the systems are generated, pressure-equilibrated, configurationally sampled with QM/MM, and then the clusters of center molecule + solvent shells are extracted. Documentation at <a href="https://autosolvate.readthedocs.io/">https://autosolvate.readthedocs.io/</a>. 

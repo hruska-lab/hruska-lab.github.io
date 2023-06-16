@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Explainable machine learning
+title: explainable machine learning
 description: ground truth dataset 
 img: assets/img/atomwise6.png
 importance: 2
-category: work
+category: science
 ---
 
 Explanations of machine learning can have limited accuracy and reliability. Yet, improvements in explanation approaches are limited by small datasets. We developed a larger dataset with 5 million ground truth explanations for molecular graphs. Chemical validity is guaranteed by using chemical operations, and one explanation value per atom or bond is ensured with decision trees. The resulting pairs of molecules differ only by a change for one atom or bond.

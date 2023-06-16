@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Research
-permalink: /research/
-description: 
+title: Team
+permalink: /team/
+description:
 nav: true
-nav_order: 2
-display_categories: [science, software]
+nav_order: 6
+display_categories: [current]
 horizontal: false
 ---
 
