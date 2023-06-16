@@ -73,7 +73,7 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 orcid_id: 0000-0001-5679-8419
 medium_username: # your Medium username
 quora_username: # your Quora username
-publons_id: AAY-5878-2020
+publons_id: # publons doesn't work
 research_gate_profile: Eugen-Hruska-3
 blogger_url: # your blogger URL
 work_url: # work page URL
