@@ -32,8 +32,8 @@ Seeking full-time doctoral students interested in researching drug metabolism wi
 Here are the requirements for a candidate:
 
 * Experience with some of the following: molecular dynamics, density functional theory, machine learning, programming
-* The candidate can start as early as Fall 2023 or Spring 2024.
+* The candidate can start Fall 2023 or Spring 2024.
 * The candidate can work independently, and responsibly on research tasks.
 * The candidate is proficient in writing skills for journal publications.
 
-If you are interested, please send your CV and a brief statement about your research interests, professional goals, and experience with the abovementioned computational methods to PI's email available [here](https://hruska-lab.github.io/assets/pdf/Hruska-CV.pdf). A fully-funded scholarship is available.
+If you are interested, please send your CV and a brief statement about your research interests, professional goals, and experience with the abovementioned computational methods to PI's email available [here](https://hruska-lab.github.io/assets/pdf/Hruska-CV.pdf). There are no tuition fees and a scholarship of 29000CZK/month (around 1200EUR/month) net is included.
