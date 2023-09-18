@@ -32,7 +32,7 @@ Seeking full-time doctoral students interested in researching drug metabolism wi
 Here are the requirements for a candidate:
 
 * Experience with some of the following: molecular dynamics, density functional theory, machine learning, programming
-* The candidate can start Fall 2023 or Spring 2024.
+* The candidate can start in Spring 2024 or Fall 2024.
 * The candidate can work independently, and responsibly on research tasks.
 * The candidate is proficient in writing skills for journal publications.
 
