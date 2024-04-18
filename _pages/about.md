@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 
 Research lab investigating drug-protein interactions with the help of high-throughput atomistic simulation and explainable machine learning. 
 <br>
-Located at [Faculty of Pharmacy, Charles University](https://portal.faf.cuni.cz/Profile/Hruska-Eugen/) in [Hradec Králové, Czechia.](https://en.mapy.cz/zakladni?source=firm&id=360719&ds=2&x=15.8358164&y=50.2015221&z=5) 
+Located at [Faculty of Pharmacy, Charles University](https://portal.faf.cuni.cz/Profile/Hruska-Eugen/) in [Hradec Králové, Czech Republic.](https://en.mapy.cz/zakladni?source=firm&id=360719&ds=2&x=15.8358164&y=50.2015221&z=5) 
 <br>
 Research results are described in [section Research](research). 
 <br>
