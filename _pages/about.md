@@ -26,14 +26,5 @@ For news follow on [Twitter](https://twitter.com/HruskaEugen).
 <br>
 
 
-#### Open position
-
-Seeking full-time doctoral students interested in researching drug metabolism with atomistic simulations at quantum accuracy, high throughput computing, and machine learning. 
-Here are the requirements for a candidate:
-
-* Experience with some of the following: molecular dynamics, density functional theory, machine learning, programming
-* The candidate can start in Fall 2024.
-* The candidate can work independently, and responsibly on research tasks.
-* The candidate is proficient in writing skills for journal publications.
-
-If you are interested, please send your CV and a brief statement about your research interests, professional goals, and experience with the abovementioned computational methods to PI's email available [here](https://hruska-lab.github.io/assets/pdf/Hruska-CV.pdf). There are no tuition fees and a scholarship of 29000CZK/month (around 1200EUR/month) net is included.
+#### Join the lab
+Currently, we do not have any open funded positions. If you have fellowship/third-party funding and are interested in computational pharmaceutical science in this lab: send your CV, a brief statement about your experience with any computational methods, and your research interests to the email available [here](https://hruska-lab.github.io/assets/pdf/Hruska-CV.pdf). 
