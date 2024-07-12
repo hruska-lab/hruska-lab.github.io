@@ -2,8 +2,8 @@
 layout: page
 title: Lukáš Majer
 description: Machine learning of pharmacokinetic properties
-img: assets/img/Majer.jpg
+img: 
 importance: 10
-category: current
+category: former
 redirect: https://hruska-lab.github.io/team/
 ---
