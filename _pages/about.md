@@ -21,8 +21,6 @@ Located at [Faculty of Pharmacy, Charles University](https://portal.faf.cuni.cz/
 <br>
 Research results are described in [section Research](research). 
 <br>
-For news follow on [Twitter](https://twitter.com/HruskaEugen). 
-<br>
 <br>
 
 
