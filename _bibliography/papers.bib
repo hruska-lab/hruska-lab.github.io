@@ -78,8 +78,18 @@
   title={The wins and failures of current docking methods tested on the flexible active site of cytochromes P450},
   author={Suwa{\l}a, Dominik and Hru{\v{s}}ka, Eugen},
   year={2024},
-  journal = {Preprint},
+  journal={Preprint},
   preprint={https://chemrxiv.org/engage/chemrxiv/article-details/67470b577be152b1d00cfc8f},
   abstract={In this work, we benchmark 4 selected open source docking engines for use in the cytochrome P450 protein family. The key enzymes family of phase I metabolism is characterized by a wide variety of accepted substrates due to flexible active site. This work is a benchmark study which aims to evaluate the capabilities of current rigid and induced-fit docking methods for prediction of correct heme-ligand orientation. To asses it, we use two unique distances to heme iron and a SuCOS score to quantify reconstruction of orientation and chemical features. We selected three rigid protein docking engines: GNINA, AutoDock VINA, GalaxyDock2 HEME and a flexible docking model, RosettaFold-All-Atoms to test them on a dataset of 128 CYP-binding ligands. We report mean absolute error for RosetttaFold-All-Atom on key distance, to the atom closest to heme iron in experimental reference structure, 3 times lower than AutoDock VINA engine in the same simulation. Our results indicate that induced fit method is a significant improvement over rigid methods for flexible active site, but still offer limited predictivity. During crossdocking, RosettaFold-All-Atoms was able to recreate over a quarter of distances up to 20 percent difference from experiment. Further analysis indicates a low overlap in the distribution of ligand chemical features, based on a SuCOS score, which suggests a space for further improvement.},
   preview={crossdocking.PNG},
+}
+
+@article{grenda2025md,
+ title={Automated Structural Refinement of Docked Complexes in Cytochrome P450 Using Molecular Dynamics},
+ author={Grenda, Przemysław and Ogos, Martyna and Hru{\v{s}}ka, Eugen}
+ year={2025},
+ journal={Preprint},
+ preprint={https://doi.org/10.26434/chemrxiv-2025-mvv4k-v3},
+ abstract={Docking and molecular dynamics are commonly used methods in drug development for the prediction of interactions between the drug in question and the target protein. When used together, docking studies can provide starting structures for molecular dynamics, which can improve the relatively low accuracy of docking but at greater computational cost. When the structure contains a cofactor with covalently bound metal atom, few automated methods are capable of setting up the system to perform molecular dynamics simulations. Another limitation that can be encountered is the parametrization of the ligand, which is not always easy to set up and automate using popular suites, such as AMBER or GROMACS. Here, we propose an automated workflow for setting up and running the simulation, providing a seamless integration for both flexible and rigid protein docking engines. The automatic setup works for around 90% of all ligands for rigid docking engines, with this number decreasing for RoseTTAFold All-Atom to around 30% due to its known problem with hallucination of the ligand conformation. }.
+ preview={workflowv9.png},
 }
