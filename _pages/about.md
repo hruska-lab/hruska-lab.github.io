@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Research lab investigating drug-protein interactions with the help of high-throughput atomistic simulation and explainable machine learning. 
+Research lab investigating drug-protein interactions and drug metabolism with the help of high-throughput atomistic simulation and machine learning. 
 <br>
 Located at [Faculty of Pharmacy, Charles University](https://portal.faf.cuni.cz/Profile/Hruska-Eugen/) in [Hradec Králové, Czech Republic.](https://en.mapy.cz/zakladni?source=firm&id=360719&ds=2&x=15.8358164&y=50.2015221&z=5) 
 <br>
@@ -23,6 +23,9 @@ Research results are described in [section Research](research).
 <br>
 <br>
 
-
-#### Join the lab
-Currently, we do not have any open funded positions. If you have fellowship/third-party funding and are interested in computational pharmaceutical science in this lab: send your CV, a brief statement about your experience with any computational methods, and your research interests to the email available [here](https://hruska-lab.github.io/assets/pdf/Hruska-CV.pdf). 
+#### Open PhD position
+The determination of drug metabolism is a critical step in drug development. While in silico prediction of drug metabolism is promising, currently it is limited by frequent false positives. The goal of this work is to improve high-throughput prediction of chemical reactions during drug metabolism. The methods will focus on machine learning and atomistic simulation. 
+  * Doctoral program: [Applied physics and mathematics in medicine and pharmacy](https://www.faf.cuni.cz/Study/Postgraduate/Programs/Applied-physics-and-mathematics/)
+  * Scholarship of 29000CZK/month (around 1200EUR/month)
+  * Informal application: send your CV and a brief statement about your research interests, and your experience with computational methods to the email available [here](https://hruska-lab.github.io/assets/pdf/Hruska-CV.pdf)
+  * Formal application deadline: 2. 9. 2025
