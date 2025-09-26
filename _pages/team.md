@@ -5,7 +5,7 @@ permalink: /team/
 description:
 nav: true
 nav_order: 6
-display_categories: [current, former]
+display_categories: [pi, current, former]
 horizontal: false
 ---
 
