@@ -28,4 +28,4 @@ The determination of drug metabolism is a critical step in drug development. Whi
   * Doctoral program: [Applied physics and mathematics in medicine and pharmacy](https://www.faf.cuni.cz/Study/Postgraduate/Programs/Applied-physics-and-mathematics/)
   * Scholarship of 29000CZK/month (around 1200EUR/month)
   * Application: send your CV and a brief statement on your experience with computational methods to the email [available here](https://hruska-lab.github.io/assets/pdf/Hruska-CV.pdf)
-  * [Formal application](https://www.faf.cuni.cz/Study/Postgraduate/Guide-to-Application/) deadline 30.11.2025 for start date 2.3.2026
+  * [Formal application](https://www.faf.cuni.cz/Study/Postgraduate/Guide-to-Application/) deadline 30.04.2026 for start date 1.10.2026
