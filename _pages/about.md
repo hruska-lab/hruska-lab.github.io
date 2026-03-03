@@ -2,7 +2,7 @@
 layout: about
 title: Overview
 permalink: /
-subtitle: Computational pharmaceutical science 
+subtitle: Computational pharmaceutical science | High-throughput atomistic simulation | Organometallic enzymes
 
 profile:
   align: left
@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 
 Research lab investigating drug-protein interactions and drug metabolism with the help of high-throughput atomistic simulation and machine learning. 
 <br>
-Located at [Faculty of Pharmacy, Charles University](https://portal.faf.cuni.cz/Profile/Hruska-Eugen/) in [Hradec Králové, Czech Republic.](https://en.mapy.cz/zakladni?source=firm&id=360719&ds=2&x=15.8358164&y=50.2015221&z=5) 
+Located at [Faculty of Pharmacy, Charles University](https://www.faf.cuni.cz/) in [Hradec Králové, Czech Republic.](https://en.mapy.cz/zakladni?source=firm&id=360719&ds=2&x=15.8358164&y=50.2015221&z=5) 
 
 <br>
 <br>
