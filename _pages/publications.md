@@ -17,4 +17,4 @@ nav_order: 4
 
 </div>
 <br>
-Full list of publications <a href="https://scholar.google.com/citations?user=Rq6m2UIAAAA">here.</a>
+Full list of publications <a href="https://scholar.google.com/citations?user=Rq6m2UIAAAAJ">here.</a>
