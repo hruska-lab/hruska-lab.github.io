@@ -23,9 +23,7 @@ Located at [Faculty of Pharmacy, Charles University](https://www.faf.cuni.cz/) i
 <br>
 
 #### Open PhD position
-The determination of drug metabolism is a critical step in drug development. While in silico prediction of drug metabolism is promising, currently it is limited by frequent false positives. The goal of this work is to improve high-throughput prediction of chemical reactions during drug metabolism. The methods will focus on machine learning and atomistic simulation. 
-  * Title: Chemical reactions during drug metabolism
-  * Doctoral program: [Applied physics and mathematics in medicine and pharmacy](https://www.faf.cuni.cz/Study/Postgraduate/Programs/Applied-physics-and-mathematics/)
+Open position at the doctoral program [Applied physics and mathematics in medicine and pharmacy](https://www.faf.cuni.cz/Study/Postgraduate/Programs/Applied-physics-and-mathematics/). The research topic is the determination of drug metabolism. The goal of this work is to improve high-throughput prediction of chemical reactions during drug metabolism. The methods will focus on machine learning and atomistic simulation. 
+  * Requirements: diploma/master's degree in chemistry, pharmacy or related field
   * Scholarship of 29000CZK/month (around 1200EUR/month)
-  * Application: send your CV and a brief statement on your experience with computational methods to the email [available here](https://hruska-lab.github.io/assets/pdf/Hruska-CV.pdf)
-  * [Formal application](https://www.faf.cuni.cz/Study/Postgraduate/Guide-to-Application/) deadline 1.09.2026 for start date 1.10.2026
+  * For application send your CV, a brief statement on your experience with computational methods and if available standardized test scores (Graduate Record Examinations or similar) to the email [available here](https://hruska-lab.github.io/assets/pdf/Hruska-CV.pdf)
